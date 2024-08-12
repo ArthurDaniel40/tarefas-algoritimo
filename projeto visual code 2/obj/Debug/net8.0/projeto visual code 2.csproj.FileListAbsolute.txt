@@ -1,0 +1,14 @@
+D:\Users\20241170150028\Desktop\projeto visual code 2\bin\Debug\net8.0\projeto visual code 2.exe
+D:\Users\20241170150028\Desktop\projeto visual code 2\bin\Debug\net8.0\projeto visual code 2.deps.json
+D:\Users\20241170150028\Desktop\projeto visual code 2\bin\Debug\net8.0\projeto visual code 2.runtimeconfig.json
+D:\Users\20241170150028\Desktop\projeto visual code 2\bin\Debug\net8.0\projeto visual code 2.dll
+D:\Users\20241170150028\Desktop\projeto visual code 2\bin\Debug\net8.0\projeto visual code 2.pdb
+D:\Users\20241170150028\Desktop\projeto visual code 2\obj\Debug\net8.0\projeto visual code 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150028\Desktop\projeto visual code 2\obj\Debug\net8.0\projeto visual code 2.AssemblyInfoInputs.cache
+D:\Users\20241170150028\Desktop\projeto visual code 2\obj\Debug\net8.0\projeto visual code 2.AssemblyInfo.cs
+D:\Users\20241170150028\Desktop\projeto visual code 2\obj\Debug\net8.0\projeto visual code 2.csproj.CoreCompileInputs.cache
+D:\Users\20241170150028\Desktop\projeto visual code 2\obj\Debug\net8.0\projeto visual code 2.dll
+D:\Users\20241170150028\Desktop\projeto visual code 2\obj\Debug\net8.0\refint\projeto visual code 2.dll
+D:\Users\20241170150028\Desktop\projeto visual code 2\obj\Debug\net8.0\projeto visual code 2.pdb
+D:\Users\20241170150028\Desktop\projeto visual code 2\obj\Debug\net8.0\projeto visual code 2.genruntimeconfig.cache
+D:\Users\20241170150028\Desktop\projeto visual code 2\obj\Debug\net8.0\ref\projeto visual code 2.dll
